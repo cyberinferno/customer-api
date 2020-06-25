@@ -1,0 +1,11 @@
+{
+  "apiName": "Customer API",
+  "version": "1.0.0",
+  "port": 3000,
+  "db": {
+    "database": "customer",
+    "host": "127.0.0.1",
+    "user": "customer",
+    "password": "customer"
+  }
+}
